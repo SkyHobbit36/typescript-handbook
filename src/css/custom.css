@@ -27,3 +27,21 @@
 .navbar {
   height: 100%;
 }
+
+.hero__subtitle--custom {
+  max-width: 720px;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+main img {
+  margin-top: 1rem;
+  width: 128px;
+}
+
+main p {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0.5rem;
+  padding-bottom: 1rem;
+}

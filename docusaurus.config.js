@@ -101,7 +101,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: `Разработал <a href="https://github.com/harryheman">Игорь Агапов</a> с помощью <a href="https://docusaurus.io/">Docusaurus</a>. Опубликовано на <a href="https://www.netlify.com/">Netlify</a> &copy; ${new Date().getFullYear()}`
+      copyright: `Developed by <a href="https://github.com/harryheman">Igor Agapov</a> with <a href="https://docusaurus.io/">Docusaurus</a>. Deploy on <a href="https://www.netlify.com/">Netlify</a> &copy; ${new Date().getFullYear()}`
     },
     gtag: {
       trackingID: 'G-B7FNCMHY81'
